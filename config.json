@@ -1,0 +1,15 @@
+{
+    "className": "effort-by-expense-category",
+    "sdk": "2.1",
+    "javascript": [
+        "node_modules/file-saver/FileSaver.min.js",
+        "src/javascript/utils/__ts-utilities.js",
+        "src/javascript/utils/__ts-logger.js",
+        "src/javascript/utils/__ts-info-link.js",
+        "src/javascript/utils/__ts-file-utilities.js",
+        "src/javascript/Renderers.js",
+        "src/javascript/Constants.js",
+        "src/javascript/SummaryItem.js",
+        "src/javascript/app.js"
+    ]
+}
